@@ -36,25 +36,25 @@ An ESP32-based access control system using RFID card scanning.
 
 \## Pin Connections
 
-| Component     | ESP32 Pin |
+| Component  | ESP32 Pin |
 
-|---------------|-----------|
+|------------|-----------|
 
-| RFID SS       | 21        |
+| RFID SS    | 21        |
 
-| RFID RST      | 22        |
+| RFID RST   | 22        |
 
-| LCD DC        | 4         |
+| LCD DC     | 4         |
 
-| LCD CS        | 15        |
+| LCD CS     | 15        |
 
-| LCD RST       | 2         |
+| LCD RST    | 2         |
 
-| Servo         | 13        |
+| Servo      | 13        |
 
-| Green LED     | 16        |
+| Green LED  | 16        |
 
-| Red LED       | 17        |
+| Red LED    | 17        |
 
 
 
@@ -78,9 +78,9 @@ An ESP32-based access control system using RFID card scanning.
 
 2\. If the UID matches an authorized card, the servo opens and the green LED turns on
 
-3\. Scan again to close — servo returns to 0° and red LED turns on
+3\. Scan again to close — servo returns to 0 degrees and red LED turns on
 
-4\. Unauthorized cards are rejected and the display shows "WRONG"
+4\. Unauthorized cards are rejected and the display shows WRONG
 
 5\. All access events are sent via Bluetooth
 
@@ -94,5 +94,5 @@ An ESP32-based access control system using RFID card scanning.
 
 3\. Flash to your ESP32
 
-4\. Pair with "ESP32\_BT" via Bluetooth to receive notifications
+4\. Pair with ESP32\_BT via Bluetooth to receive notifications
 
