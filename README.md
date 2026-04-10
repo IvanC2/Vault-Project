@@ -6,7 +6,7 @@ An ESP32-based access control system using RFID card scanning, with a servo-cont
 
 ## 📹 Demo Video
 
-[![Demo Video](https://img.youtube.com/vi/8bqfaT_7ws8/hqdefault.jpg)](https://youtube.com/shorts/8bqfaT_7ws8)
+[![Demo Video](https://img.youtube.com/vi/wYxXUIIQQZ8/hqdefault.jpg)](https://youtu.be/wYxXUIIQQZ8)
 > Click the thumbnail above to watch the project in action.
 
 ---
